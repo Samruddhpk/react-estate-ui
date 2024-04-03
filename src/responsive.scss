@@ -1,0 +1,20 @@
+// phone
+@mixin sm {
+  @media (max-width: 738px) {
+    @content;
+  }
+}
+
+//  mid tabs/ phones
+@mixin md {
+  @media (max-width: 1024px) {
+    @content;
+  }
+}
+
+//  desktops / screens
+@mixin lg {
+  @media (max-width: 1366px) {
+    @content;
+  }
+}
