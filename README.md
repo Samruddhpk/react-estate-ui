@@ -15,3 +15,13 @@
 - create layout.scss(APP.jsx) --> for the layout of app
 - create responsive.scss --> for responsiveness(breakpoints)
 - refer all files for why we need them
+
+### 3. Responsive Navbar
+
+- Create Components folder
+- Navbar.jsx & navbar.scss
+
+### 4. Responsive Hamburger Menu (Sidebar)
+
+- added hamburger in navbar.jsx - useState()
+- styled in right side of section in navbar
